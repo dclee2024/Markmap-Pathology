@@ -1,4 +1,4 @@
 # Markmap-Pathology
 This repository is used for Markmap construction on Pathology.
-## HZY and dcleeeeee was here
+## HZY and Dcleeeeee were here
 ### That sounds good!
